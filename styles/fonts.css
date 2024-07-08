@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
+@font-face {
+    font-family: Golos;
+    src: url(../assets/golos-text_regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: Golos;
+    src: url(../assets/golos-text_medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Golos;
+    src: url(../assets/golos-text_demibold.ttf);
+    font-weight: 600;
+}
